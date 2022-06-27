@@ -8,7 +8,9 @@
 - pushed my files to GitHub and deployed them to a live site through GitHub
 - submitted the deployed application URL and GitHub repo to BCS for review and grading
 
-![URL of Deployed Application](./Assets/InvalidLengthtest.webm)
+[URL of Deployed Application](https://ericwittenstein.github.io/Unit-3-Challenge/)
+
+![screen recording of functional deployed site]()
 
 <!-- EHW SIGNET
 ---------
