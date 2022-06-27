@@ -10,7 +10,7 @@
 
 [URL of Deployed Application](https://ericwittenstein.github.io/Unit-3-Challenge/)
 
-![screen recording of functional deployed site]()
+![screen recording of functional deployed site](./Assets/DeployedScreenRecording.gif)
 
 <!-- EHW SIGNET
 ---------
