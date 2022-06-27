@@ -49,19 +49,17 @@ function generatePassword() {
   // 2. validate the input
   // creates a variable with a numeric value the length of the character set
   var charLength = charSet.length;
-  // sets the password length to a numeric value
-  var passwordLength = passwordLengthInput.number;
 
   // 3. generate the password based on the criteria
 
   // create the password variable as a string
   var randomPassword = "";
-  for (var i = 0; i < passwordLength; i++) {
+  for (var i = 0; i < passwordLengthInput; i++) {
     // move through the character set, selecting a number at random, pulling the character at that number, and adding it to the random password until the desired length is met
     var character = Math.floor(Math.random() * charLength);
     randomPassword += charSet.charAt(character);
   }
-  console.log(randomPassword);
+
   // 4. Display generated password on the page
   return (randomPassword);
 }
